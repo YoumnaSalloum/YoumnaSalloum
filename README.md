@@ -64,5 +64,5 @@ microservices for Web3 social network. Recognized for proactive problem-solving,
 - **Email:** [youmna61998@gmail.com](mailto:youmna61998@gmail.com)
 ---
  
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> ☕ Always learning, always shipping.
+☕ Always learning, always shipping. <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
  
