@@ -48,15 +48,6 @@ microservices for Web3 social network. Recognized for proactive problem-solving,
 - 🧩 Competitive programming on Codeforces, Beecrowd, and HackerRank
 ---
  
-## 📊 GitHub Stats
- 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YoumnaSalloum&show_icons=true&locale=en" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=YoumnaSalloum&layout=compact&locale=en" alt="Top languages" />
-</p>
-
----
- 
 ## 🔗 Connect
  
 - **Portfolio:** [youmnasalloum.github.io](https://youmnasalloum.github.io)
